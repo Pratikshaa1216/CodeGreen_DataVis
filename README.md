@@ -4,18 +4,18 @@ Data Visualisation of Carbon footprint due to computation (Environmentally Frien
 In this project, we've built two web applications with the same functionality but utilizing different programming languages. Our aim was to compare their environmental
 impact in terms of electricity consumption and CO2 emissions, to make a more informed and eco-friendly tech choice.
 
-🎯 ## Objective
+🎯 Objective
 
 With the increasing importance of sustainability, we've taken up the challenge to analyze and compare the environmental impacts of two web applications.
 One is built with JavaScript, and the other with Python. Our aim? To encourage more eco-friendly tech choices.
 
-📁 ## Dataset
+📁 Dataset
 
 Our dataset is created using the Code Carbon library and is saved as a CSV file. It provides information about the carbon footprint from computing tasks. 
 Users can upload this dataset (DataFinal.csv) to our web application to see and interact with the data, getting a clear picture of the environmental effects.
 If you wish to experiment with an alternate dataset, ensure it aligns with our established criteria and format.
 
-📌 ## Methodologies
+📌 Methodologies
 
 1. Stack I: 
 Technologies: HTML, CSS, JavaScript, Plotly.js
@@ -29,7 +29,7 @@ Our methodology combines Python, Plotly, Dash, HTML, and Flask to create a web a
 and see various visualizations.
 
 
-🤖 ## Automation Workflow
+🤖 Automation Workflow
 
 Follow these steps to visualize the carbon emissions:
 1) We've got two automation scripts at your disposal: run.js and auto.py.
@@ -41,7 +41,7 @@ Follow these steps to visualize the carbon emissions:
 7) The tracking stops.
 8) Your data on emissions is neatly tucked away in the emissions.csv file.
 
-📊 ## Results
+📊 Results
 
 Our findings? The two tech stacks differ slightly in their carbon footprints:
 
@@ -49,7 +49,7 @@ JavaScript: Treads heavier with an average emission of 0.00029.
 Python: Steps lightly with an average emission of 0.00028.
 This project shows that even minor tech decisions can ripple into significant environmental outcomes. Python emerged as the greener choice for this round.
 
-🌱 ## Future Scope
+🌱 Future Scope
 
 Our vision is clear: Propel tech towards a greener future. By diving deeper into various programming languages and setting up benchmarks, we aim to:
 
