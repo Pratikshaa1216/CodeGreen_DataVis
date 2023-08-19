@@ -408,8 +408,8 @@ app.layout = html.Div(
                     id='p-search',
                     children=[
                         dcc.Dropdown(
-                            id='projectDropdown',  # Dropdown for project names
-                            options=[],  # Initially empty until CSV is uploaded
+                            id='projectDropdown',  
+                            options=[],  
                             value=None,
                             placeholder='Select a project'
                         ),
@@ -584,7 +584,7 @@ def display_latest(data):
 
     return latest_data
 
-# Create a callback to update the graphs based on the selected project from the dropdown
+
 @app.callback(
     [Output('emissionRateChart', 'figure', allow_duplicate=True),
      Output('energyComparisonChart', 'figure', allow_duplicate=True),
