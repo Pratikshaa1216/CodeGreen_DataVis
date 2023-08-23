@@ -56,11 +56,14 @@ This project shows that even minor tech decisions can ripple into significant en
 
 🌱 Future Scope
 
-Our vision is clear: Propel tech towards a greener future. By diving deeper into various programming languages and setting up benchmarks, we aim to:
+Our vision is clear:
 
-🌿 Advocate coding practices that are gentle on the environment.
-🤝 Build a community of devs conscious of their code's ecological footprints.
-🚀 Lead the charge with innovations that balance tech prowess with environmental care.
+We want to make technology greener. To do this, we will:
+🌿 Promote eco-friendly coding.
+
+🤝 Gather developers who care about the planet.
+
+🚀 Create new tech solutions that are both powerful and good for the environment.
 
 Remember, coding isn't just about solving problems; it's about making choices that resonate with our values. Let's code green! 🍃
 
