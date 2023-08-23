@@ -20,16 +20,17 @@ If you wish to experiment with an alternate dataset, ensure it aligns with our e
 1. Stack I: 
 
 
-Technologies: HTML, CSS, JavaScript, Plotly.js
-Our methodology combines HTML, JavaScript, CSS and Plotly.js to deliver an interactive web application that allows users to upload data, interact with it,
-and see various visualizations.
+   Technologies: HTML, CSS, JavaScript, Plotly.js
+   Our methodology combines HTML, JavaScript, CSS and Plotly.js to deliver an interactive web application that allows users to upload data, interact with it,
+   and see various visualizations.
 
 
 2. Stack II: 
 
-Technologies: Python, Plotly, Dash, HTML, Flask
-Our methodology combines Python, Plotly, Dash, HTML, and Flask to create a web application that allows users to upload data, interact with it,
-and see various visualizations.
+
+   Technologies: Python, Plotly, Dash, HTML, Flask
+   Our methodology combines Python, Plotly, Dash, HTML, and Flask to create a web application that allows users to upload data, interact with it,
+   and see various visualizations.
 
 
 🤖 Automation Workflow
@@ -52,6 +53,7 @@ JavaScript: Treads heavier with an average emission of 0.00029.
 
 Python: Steps lightly with an average emission of 0.00028.
 
+ 
 This project shows that even minor tech decisions can ripple into significant environmental outcomes. Python emerged as the greener choice for this round.
 
 🌱 Future Scope
