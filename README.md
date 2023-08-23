@@ -19,6 +19,7 @@ If you wish to experiment with an alternate dataset, ensure it aligns with our e
 
 1. Stack I: 
 
+
 Technologies: HTML, CSS, JavaScript, Plotly.js
 Our methodology combines HTML, JavaScript, CSS and Plotly.js to deliver an interactive web application that allows users to upload data, interact with it,
 and see various visualizations.
