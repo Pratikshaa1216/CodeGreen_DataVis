@@ -46,6 +46,8 @@ Follow these steps to visualize the carbon emissions:
 Our findings? The two tech stacks differ slightly in their carbon footprints:
 
 JavaScript: Treads heavier with an average emission of 0.00029.
+
+
 Python: Steps lightly with an average emission of 0.00028.
 This project shows that even minor tech decisions can ripple into significant environmental outcomes. Python emerged as the greener choice for this round.
 
