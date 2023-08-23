@@ -59,6 +59,7 @@ This project shows that even minor tech decisions can ripple into significant en
 Our vision is clear:
 
 We want to make technology greener. To do this, we will:
+
 🌿 Promote eco-friendly coding.
 
 🤝 Gather developers who care about the planet.
