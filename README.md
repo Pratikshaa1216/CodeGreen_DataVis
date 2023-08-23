@@ -18,12 +18,14 @@ If you wish to experiment with an alternate dataset, ensure it aligns with our e
 📌 Methodologies
 
 1. Stack I: 
+
 Technologies: HTML, CSS, JavaScript, Plotly.js
 Our methodology combines HTML, JavaScript, CSS and Plotly.js to deliver an interactive web application that allows users to upload data, interact with it,
 and see various visualizations.
 
 
 2. Stack II: 
+
 Technologies: Python, Plotly, Dash, HTML, Flask
 Our methodology combines Python, Plotly, Dash, HTML, and Flask to create a web application that allows users to upload data, interact with it,
 and see various visualizations.
