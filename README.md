@@ -1,5 +1,5 @@
 # CodeGreen_DataVis
-Data Visualisation of Carbon footprint due to computation (Environmentally Friendly Web Application Comparison)
+Data Visualisation of Carbon footprint due to computation (Environmental Friendly Web Application Comparison)
 
 In this project, we've built two web applications with the same functionality but utilizing different programming languages. Our aim was to compare their environmental
 impact in terms of electricity consumption and CO2 emissions, to make a more informed and eco-friendly tech choice.
